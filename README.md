@@ -1,1 +1,2 @@
-# AI-Resume_Builder
+# AI-Resume-Builder
+AI-powered resume builder that helps users quickly create professional resumes. It offers multiple resume formats and allows users to download resumes in PDF or Word formats. This project uses AI to generate content and provide customization options, making it easy to create polished, job-ready resumes.
